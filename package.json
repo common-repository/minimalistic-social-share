@@ -1,0 +1,26 @@
+{
+  "name": "social-share",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "description": "Social Share grunt routines",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-cssmin": "*"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manuelRod/minimalistic_social_share_wordpress_plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelRod/minimalistic_social_share_wordpress_plugin/issues"
+  },
+  "homepage": "https://github.com/manuelRod/minimalistic_social_share_wordpress_plugin#readme"
+}

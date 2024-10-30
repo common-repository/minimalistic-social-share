@@ -1,0 +1,10 @@
+.default_colour {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.sortable-list {
+	border: none !important;
+	background: none !important;
+	color: black !important;
+}
